@@ -217,7 +217,7 @@
       headers: {
         accept: "*/*",
         "accept-language": "en-US,en;q=0.9",
-        apikey: import.meta.env.VITE_PUBLIC_API_KEY,
+        apikey: "T8phSeWudFWrnmvqPBTX-Q",
         "client-agent": "BreadImagine:v0.1:(discord)bread.trademark",
         "content-type": "application/json",
       },
